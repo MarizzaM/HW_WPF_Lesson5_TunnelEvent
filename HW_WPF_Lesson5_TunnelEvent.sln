@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_WPF_Lesson5_TunnelEvent", "HW_WPF_Lesson5_TunnelEvent\HW_WPF_Lesson5_TunnelEvent.csproj", "{456895B6-628E-4750-A5B3-F5F50CAD74DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456895B6-628E-4750-A5B3-F5F50CAD74DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456895B6-628E-4750-A5B3-F5F50CAD74DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456895B6-628E-4750-A5B3-F5F50CAD74DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456895B6-628E-4750-A5B3-F5F50CAD74DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DDB42E-88A6-457A-BD6A-9B981EF329D4}
+	EndGlobalSection
+EndGlobal
